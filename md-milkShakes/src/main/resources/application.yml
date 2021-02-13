@@ -1,0 +1,13 @@
+server:
+  port: 8181
+  
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: MilkShakes
+      #username: root
+      #password: 1234
+       
+ 
